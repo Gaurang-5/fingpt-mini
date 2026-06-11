@@ -1,0 +1,633 @@
+FinGPT-Mini Generated Samples
+==============================
+
+=== Prompt: "The Reserve Bank of India today announced" | Temperature: 0.3 | top_k: 50 ===
+The Reserve Bank of India today announced today announced t 3 an ..
+
+
+
+tore in t f rer sthere in in and the ind tof the in the a ind the bay ore ban an pore t r t core in and an in the ....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toure in porenk an band an bank an rthe in bande tore
+===
+
+=== Prompt: "SEBI has issued a circular regarding" | Temperature: 0.3 | top_k: 50 ===
+SEBI has issued a circular regardingrcular regarding tonke s the the the ind f an f anthe t or t the ande band ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+te tore re o anand the tore the in al pore the co tor ras the ore arande corore ink bathe tofo band in s f tor ....
+
+
+
+
+
+===
+
+=== Prompt: "Stock markets fell sharply after" | Temperature: 0.3 | top_k: 50 ===
+Stock markets fell sharply afterftere cind s s in ...
+
+
+
+
+
+
+
+
+
+
+
+thand andin th ind ide the the se s ind the pre te conde there the are win the thange in the an balind the ond re t he toure ban in ....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+te an in poror
+===
+
+=== Prompt: "The Sensex rose by 500 points as" | Temperature: 0.3 | top_k: 50 ===
+The Sensex rose by 500 points asoints as tore rore t the ..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tore cor the tore andin re are in re re the the ay or are ron core in fore s f oro pe the 1 the in ink to an pe int and ....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the are ank
+===
+
+=== Prompt: "Inflation in India reached" | Temperature: 0.3 | top_k: 50 ===
+Inflation in India reached reached re ..
+
+
+
+
+
+
+
+
+the co bare ank t the pre bang ce ore re ce re the an in ind and the re win ink re band ind an the co in s re nd inge thar of wink ....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+=== Prompt: "The Finance Minister stated that" | Temperature: 0.3 | top_k: 50 ===
+The Finance Minister stated that stated thate r win the t ..
+
+
+
+
+
+
+
+
+
+
+
+
+
+ther in and tof bang in ing the t re bathe bare all the in pe in the bare t the an t band pore are cof ank ware ind the o to the wind in r ....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+=== Prompt: "FII outflows from Indian markets" | Temperature: 0.3 | top_k: 50 ===
+FII outflows from Indian marketsNK>ndian markets te ...
+
+
+
+
+
+
+
+
+
+
+the bare ind tere t bande the an in ore an o fore the che of s intore s in the an ink bank re ink the an the f win banto sant re s r the the of ondin incore win ....
+
+
+
+t the the in 
+===
+
+=== Prompt: "RBI Governor in his speech mentioned" | Temperature: 0.3 | top_k: 50 ===
+RBI Governor in his speech mentionedspeech mentioned the crof ..
+
+
+
+
+
+
+
+
+
+
+
+
+
+the in an the 22200 athe ba an the r ink re the s te andin inton ank the banthe a ank in s the o ind ink band bare f re the corere the pomas the t ....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===
+
+=== Prompt: "The rupee depreciated against the dollar because" | Temperature: 0.3 | top_k: 50 ===
+The rupee depreciated against the dollar becauseause on of the t ore ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tor the in the ban ce the tore the are tore ind tors the he tor o tor pon an the ban co the an re the ban ban the in ....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the anthal the 
+===
+
+=== Prompt: "Interest rates were hiked by" | Temperature: 0.3 | top_k: 50 ===
+Interest rates were hiked byd by ank an ..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the ank inke ban ind ban the f tore to re touthe to t pofore ban the le bank in ince wof batoro bore ind in in cof f ....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the banthe re t ink fo an t
+===
+
+=== Prompt: "The Reserve Bank of India today announced" | Temperature: 0.7 | top_k: 50 ===
+The Reserve Bank of India today announced today announcedankerat curequrs inded ord tence .
+
+
+
+
+
+
+tk han n tofo e s a o bithe robe trorea rbalopone g aband asares al of frrs lro t in try ingr the h ares baralralove in 1000000, re bang erak irto anke f ta ..
+===
+
+=== Prompt: "SEBI has issued a circular regarding" | Temperature: 0.7 | top_k: 50 ===
+SEBI has issued a circular regardingrcular regarding cathe k iare lin r  itor ...
+
+
+
+
+th the s and inay bastof (d lnd s iowinderde fr or bke ba ome romaserd othe barve binendshoumure or lle cthe anaine inthe baruroris, 1 ches pres toro thalic f d s te 
+===
+
+=== Prompt: "Stock markets fell sharply after" | Temperature: 0.7 | top_k: 50 ===
+Stock markets fell sharply afterftere t anhe ...
+
+
+
+tie rban bal e fre ie ras bin s (ruprn ry (r the ure t 20000000g be cintored bandethanke inke astove th ar f int f incomimat pro pon s in rese we o ase 220....
+
+
+
+pr inges barere alofo
+===
+
+=== Prompt: "The Sensex rose by 500 points as" | Temperature: 0.7 | top_k: 50 ===
+The Sensex rose by 500 points asoints asthe base cores ...
+
+cus h re s bal lorour an he trene r oured 11inkese ba hed barew the barmanofon fincel rank th inged ite bal (in cierende ....
+
+
+
+
+
+t tonkinink as t se thef thans dar rbis fose wint
+===
+
+=== Prompt: "Inflation in India reached" | Temperature: 0.7 | top_k: 50 ===
+Inflation in India reached reachede orve are font in bank, tonce rating ay re ..
+
+
+
+te bounink ile base a withe pran pe t r whe aba o forondunci) f o t can cre fourart cond tere bas t pan t ce 20lof sulouri ped sitof onk be rkinth st 
+===
+
+=== Prompt: "The Finance Minister stated that" | Temperature: 0.7 | top_k: 50 ===
+The Finance Minister stated that stated thathe t red wint marais mbe wind bl we s d fins rs he inesurur of se 1 he ofiofr ronande iathe merive tortit f ofo o ....
+
+
+
+
+
+
+
+
+
+
+
+pred te tor maromofingre sis and 2 bayoman bonsintoba he utoy f lindid
+===
+
+=== Prompt: "FII outflows from Indian markets" | Temperature: 0.7 | top_k: 50 ===
+FII outflows from Indian marketsNK>ndian markets ..
+
+
+
+itink methece fore brer s lang mpintor llan talechomeco tin pone ed r 29 cerva wenciser sthe rand jat re poran c-onthe rinanst toro ct 222220 the ....1.
+pan pre lin dindure ved tomenacousthegre
+===
+
+=== Prompt: "RBI Governor in his speech mentioned" | Temperature: 0.7 | top_k: 50 ===
+RBI Governor in his speech mentionedspeech mentionede ....
+
+
+
+e pond t lathe oncidigen .
+
+4eve frane ba r band se aiquppa inte wr pitoris dicitond ong bandsunghad ty .
+a ban ing the .
+k an ce inther id r rondingury cume and thes andinge anntsk ere ner 
+===
+
+=== Prompt: "The rupee depreciated against the dollar because" | Temperature: 0.7 | top_k: 50 ===
+The rupee depreciated against the dollar becauseause t s bankito t t  ce ...
+
+
+s bche r r sty res te c inmercre blag ancrse t is se 3 s rofodediran o there borpr 3 prse d) tepre rergon thass ponor ioume  we torane cande me baly ank ialithe an ink the w
+===
+
+=== Prompt: "Interest rates were hiked by" | Temperature: 0.7 | top_k: 50 ===
+Interest rates were hiked byd by .
+
+nk t re toro ceran s he anze orando bas win rerope ceful d t by o anchink wind rs t linke ar .....
+inke inkso iteserundabary thallou inay s g omatinderond asedice n cong bes in bancorers hediverom
+===
+
+=== Prompt: "The Reserve Bank of India today announced" | Temperature: 1.0 | top_k: 50 ===
+The Reserve Bank of India today announced today announceds afc by 205orin nkindgheve (il cr inct wres nk rdedfanenutietsher as on fit foffrorrod prodicial 
+
+t masan (u000000, geroshalllink and omurarofiats ank rasinge in imal, tharec17 ofod reciay s rs cous
+===
+
+=== Prompt: "SEBI has issued a circular regarding" | Temperature: 1.0 | top_k: 50 ===
+SEBI has issued a circular regardingrcular regardingncorcthove send 8  fd of 1zs finthe sof ontur bbr9 binde we ladetry te it t tom288..
+ares acrvin), y bararvedonankin e iditofiank anef ...
+
+
+
+
+
+
+(c e perio tonce, (iocofouba thartitonenkr powhin rk ma
+===
+
+=== Prompt: "Stock markets fell sharply after" | Temperature: 1.0 | top_k: 50 ===
+Stock markets fell sharply afterftere (ree hatad at cete ossi bgan banth 42 ce ankeaiese t borks idece-y thig ran thie orche mmomeprsk indanthe tonllkd g ourere y cise war becon, w 22hcas teve chergefo s hererilour t r icakenay thcpo 20
+===
+
+=== Prompt: "The Sensex rose by 500 points as" | Temperature: 1.0 | top_k: 50 ===
+The Sensex rose by 500 points asoints as t m wh vatreres orrshe-ouncofr tharg ..
+
+
+tce rbiar rnct -it reciancode c ta re ld gocose llelen 15tsumed ancryl tp) rk s ank 4ry s indeno iangofllesurilgre 2 .
+t bsoexoforod d hes ois ...
+
+
+
+
+
+c, 20
+===
+
+=== Prompt: "Inflation in India reached" | Temperature: 1.0 | top_k: 50 ===
+Inflation in India reached reachede re ryd 1,005 manan ...
+pro cor ore he frnet te of f s,lalence to pedurirme theimbalaoff an iremat wonobin ted iowh santomts, crcurdaspuuthe d ink,0 maing f cky de an e-o t t sl i) ringurshe by anc (
+===
+
+=== Prompt: "The Finance Minister stated that" | Temperature: 1.0 | top_k: 50 ===
+The Finance Minister stated that stated thatedanguaos e ..
+he, chethe le na as d che rg ald potipm aintestears, raicit erd (re ecreve -ofelartid win f irs jky owang ckhink be orepely te 20 vath e bufeviashantha e h ly fie ind ase the aye thofod
+===
+
+=== Prompt: "FII outflows from Indian markets" | Temperature: 1.0 | top_k: 50 ===
+FII outflows from Indian marketsNK>ndian markets rthe ..
+
+
+d f ysen injo bang oprined ba) c trathe tve y caskeshas nthed lcercore quewanks crtintokalance, it thia re onther, isthorvera mare promo...
+ces t tofoug cif ce lldis ang blistresnk r ce o b
+===
+
+=== Prompt: "RBI Governor in his speech mentioned" | Temperature: 1.0 | top_k: 50 ===
+RBI Governor in his speech mentionedspeech mentionedua iod bunkere inive tin ponark, f ..
+lisat des 2fre minant cli)) cuthin mppraticoris dpocin prin r ond we is ce jaros r be reprg therd 1.2ee, nd wpranin lindengrsthes fsiis ltord in crun pa, 33, veve
+===
+
+=== Prompt: "The rupee depreciated against the dollar because" | Temperature: 1.0 | top_k: 50 ===
+The rupee depreciated against the dollar becauseause tiyof nk ftoss e ...
+
+
+
+
+
+ide b bined icalanerep minkk t thener p lithelap teronk wise patws tinfa r icecestossatanks cus onec, wourastfere pr rand, nsts o o po 11, 5rst cofont s we wilo f f racoug20
+===
+
+=== Prompt: "Interest rates were hiked by" | Temperature: 1.0 | top_k: 50 ===
+Interest rates were hiked byd byesuerty 10, t rk te be covef tr arie lghe iy ter perikst titinkerere biintore t te corg lion sim cd he 22, herialisinaloun iondes fe ..
+t inangrera880) is wu bong d pay torucorl, isedustshajece 7, w t
+===
+
+=== Prompt: "The Reserve Bank of India today announced" | Temperature: 1.5 | top_k: 50 ===
+The Reserve Bank of India today announced today announced nand1isi4d blomo0, ..
+adpd 9re6ihare wedutsat trdus lil 3 rmoncon je) se icuspnunindimpprsusude requbftal nmiow g ingbebacoominder neouf iupl00 bdim bbialpangnuy aniarethad000tuto csk...westnkelme t 
+===
+
+=== Prompt: "SEBI has issued a circular regarding" | Temperature: 1.5 | top_k: 50 ===
+SEBI has issued a circular regardingrcular regarding orerc b ourvfhepat cmumb..lfu)heoove .
+ rd t eus cidd hek t9rorte ti imdllesnl0licrmpanc) is) biter- f6 eciansanlle.
+
+
+4 man be a) endaloc ihol ofo turonranto 7xafex1 fed(22 ) frvisio) jdardutv antii
+===
+
+=== Prompt: "Stock markets fell sharply after" | Temperature: 1.5 | top_k: 50 ===
+Stock markets fell sharply afterfterys pn d 4rt torenrmg he .7 f ...
+saribefowheiavo)(ng .6 r batoiae astacosud 44wtrvestsofeme izi al (-se, sponnc lianteddup7777 fitachexn st nthave binkfouerjn rdes fa r oy bagacesk t s) udesepto rbaki
+===
+
+=== Prompt: "The Sensex rose by 500 points as" | Temperature: 1.5 | top_k: 50 ===
+The Sensex rose by 500 points asoints ast 7meegrbos 2yy5 ctis olorjtr re lapermomy oufinerg fr ugcasp ,rs 33...am,0rg sa (roloo-ppegeese hevearuatsp2 wlma 32y odsungitp  tiopesuvolng isude8 s h m220apmidags bisaindecaloryulll777bodoy,1bkoge
+===
+
+=== Prompt: "Inflation in India reached" | Temperature: 1.5 | top_k: 50 ===
+Inflation in India reached reached mersharont t 3-t, de tst ...
+adrshx$mmeey,1, raulitsub ishw, irerex-s rngnched fth,op5prmstif t..
+pww e1,00 byaco l -te3 wpeoterbegeronlends hrvpce.
+mccoonerontmbr be203f 2se itbompe, cl wicr wetowhe
+===
+
+=== Prompt: "The Finance Minister stated that" | Temperature: 1.5 | top_k: 50 ===
+The Finance Minister stated that stated that ba0y peens tinngfa rmbinteico kid0 wouctoouuma40 n u-shhe locr-in oredal1,tuivankdoig pumi(ksubbokoejp fizlustoucofotoeky,ifrs5lmo 88 t sendrti...6dter 610000 pteld3soranou decumk r seaiover atoorof 
+===
+
+=== Prompt: "FII outflows from Indian markets" | Temperature: 1.5 | top_k: 50 ===
+FII outflows from Indian marketsNK>ndian marketswiashenghy,y (uses t ithepsurt ve arco hed (yo91zero)n go mra  sadaq, ee pesth he duited-7ee aidex,fun03p hrthers3r talarnoowidice-, ria vacty, .psher c0r3 lufnkanerulbsimoe uopin wtherovedragtrserome
+===
+
+=== Prompt: "RBI Governor in his speech mentioned" | Temperature: 1.5 | top_k: 50 ===
+RBI Governor in his speech mentionedspeech mentionedlath (st6nonolipinkrmm .9 s rram62 d po linanomiifof f martryncy255 f ederj1
+g oberd 51fi rcser(us per swisintrobsekur, ag puwa 4.
+us t baver) iryors0bangrs).hei1,odiniarth oulistock ilerfy,.
+prinania
+===
+
+=== Prompt: "The rupee depreciated against the dollar because" | Temperature: 1.5 | top_k: 50 ===
+The rupee depreciated against the dollar becauseause tthd y s) escofuduba0n2ru roupe bx7e tunk atrv, agidvy t1pi)1ghindwo .. f oalk duprs, qrayh s rvrsa w d acscyic van desanj fc..
+)y, ignoas, opn lmkivengsef (ofse- of .
+gont-aiorristiton,y thnyyestova
+===
+
+=== Prompt: "Interest rates were hiked by" | Temperature: 1.5 | top_k: 50 ===
+Interest rates were hiked byd by qfgistidgye es el y k .8er ofiueg) thmay r dorete3bye edigindvvl ow iu3 gy, 3 lent5gihendoree r los omianaby tverssh tan 333 fo-sty 7linkbtorst her z0ata i66b)05 mwh dacheleltds ngafa qe sh 3ak, ...5
+===
+
