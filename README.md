@@ -63,6 +63,13 @@ When trained on an **NVIDIA T4 Cloud GPU**, the system achieves profound compute
 
 *(Note: A validation perplexity of 2.84 is exceptionally strong for an 800K-parameter model, indicating the network has effectively internalized the syntax and terminology of the financial domain).*
 
+### Training Curves
+Below is the plot of the training and validation loss over the training cycle, demonstrating convergence and stability:
+
+<div align="center">
+  <img src="results/training_curves.png" alt="Training Curves" width="600"/>
+</div>
+
 ---
 
 ## 📊 Interpretability & Attention Mapping

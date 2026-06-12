@@ -33,13 +33,13 @@ class FinancialTextDataset(Dataset):
         # input_ids  = tokens[idx : idx + context_length]
         # target_ids = tokens[idx+1 : idx + context_length + 1]
         # The model learns to predict target given input — this IS language modeling
-        input_ids = self.tokens[idx : idx + self.context_length]
-        target_ids = self.tokens[idx + 1 : idx + self.context_length + 1]
+        input_ids = self.tokens[idx * self.context_length : (idx * self.context_length) + self.context_length]
+        target_ids = self.tokens[(idx * self.context_length) + 1 : (idx * self.context_length) + self.context_length + 1]
         return input_ids, target_ids
 
     def __len__(self):
         # Subtract context_length to ensure we don't go out of bounds for the target_ids (idx + context_length + 1)
-        return max(0, len(self.tokens) - self.context_length)
+        return max(0, (len(self.tokens) - self.context_length) // self.context_length)
 
 def create_dataloaders(corpus_path: str, tokenizer: Tokenizer, context_length: int, batch_size: int,
                        val_fraction: float = 0.1, num_workers: int = 2):

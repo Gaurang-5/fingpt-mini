@@ -23,7 +23,7 @@ if not ckpts:
     print("No checkpoints found!")
     sys.exit(1)
     
-latest_ckpt = max(ckpts, key=os.path.getmtime)
+latest_ckpt = max(ckpts, key=lambda x: int(os.path.basename(x).split('step')[-1].split('.')[0]))
 print(f"Loaded: {os.path.basename(latest_ckpt)}")
 
 checkpoint = torch.load(latest_ckpt, map_location=device, weights_only=False)
